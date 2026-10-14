@@ -1,1 +1,3 @@
-Day 1
+- Installed Python, VS Code, Git
+- Wrote and ran hello.py
+- Pushed first commit to GitHub
