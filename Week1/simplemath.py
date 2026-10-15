@@ -10,7 +10,7 @@ c = 14 % 4
 print("Remainder:", c)
 
 # division operator
-d =25 / 4
+d = 25 / 4
 print("Division:", d)
 
 # Integer division operator
