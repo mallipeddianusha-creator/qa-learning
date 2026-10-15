@@ -2,8 +2,8 @@ a = 2 + 2
 print("Addition:", a)
 
 # exponentiation operator
-b = 5 ** 3 
-print("powerof:", b)
+b = 5 ** 3
+print("Power:", b)
 
 # remainder operator
 c = 14 % 4
@@ -15,7 +15,7 @@ print("Division:", d)
 
 # Integer division operator
 e = 25 //4
-print("Integerdivision:", e)
+print("Integer division:", e)
 
 # multiplication operator
 f = 6 *3
@@ -23,7 +23,7 @@ print("Multiplication:", f)
 
 # addition operator
 g = 7 +  5
-print("Addition:", g)
+print("Addition2:", g)
 
 # subtraction operator
 h = 9 -1
