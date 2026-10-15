@@ -11,7 +11,7 @@ print("Remainder:", c)
 
 # division operator
 d=25 / 4
-print(d)
+print("Division:", d)
 
 # Integer division operator
 e= 25 //4
@@ -23,7 +23,7 @@ print("Multiplication:", f)
 
 # addition operator
 g= 7 +  5
-print(g)
+print("Addition:", g)
 
 # subtraction operator
 h= 9 -1
