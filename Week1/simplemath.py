@@ -14,19 +14,19 @@ d = 25 / 4
 print("Division:", d)
 
 # Integer division operator
-e = 25 //4
+e = 25 // 4
 print("Integer division:", e)
 
 # multiplication operator
-f = 6 *3
+f = 6 * 3
 print("Multiplication:", f)
 
 # addition operator
-g = 7 +  5
+g = 7 + 5
 print("Addition2:", g)
 
 # subtraction operator
-h = 9 -1
+h = 9 - 1
 print("Subtraction:", h)
 
 print("Whole value:", a + b + c + d + e + f + g + h)
