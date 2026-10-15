@@ -5,4 +5,4 @@
 
 ## Day 2
 - Learned arithmetic operators and order of operations
-- Wrote simple_math.py
+- Wrote simplemath.py
